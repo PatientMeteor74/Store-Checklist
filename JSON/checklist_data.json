@@ -1,0 +1,279 @@
+{
+    "tasks": [
+        {
+            "taskName": "Cleaning Behind Toilets",
+            "undesirability": 4,
+            "frequencyPerWeek": 3.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"5P-11P\", Location: }, Sweeping behind toilets, mopping or scrubbing behind toilets, and under urinals."
+        },
+        {
+            "taskName": "Cleaning Bathroom Walls",
+            "undesirability": 2,
+            "frequencyPerWeek": 3.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"5P-11P\", Location: }, Cleaning under hand dryer, paper towel dispenser, and under sink."
+        },
+        {
+            "taskName": "Replace Bathroom Implements",
+            "undesirability": 1,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Front\" }, Check toilet paper, paper towels, and soap for the bathrooms, and replace when necessary."
+        },
+        {
+            "taskName": "Cleaning Toilets",
+            "undesirability": 4,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"5P-11P\", Location: \"Front\" }, Cleaning toilets through and through."
+        },
+        {
+            "taskName": "Checking Toilets",
+            "undesirability": 3,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: }, Check the toilets, if they're unclean, use the brush."
+        },
+        {
+            "taskName": "Dusting",
+            "undesirability": 3,
+            "frequencyPerWeek": 2.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: }, Dust the store where applicable (e.g. machines, windows, etc.) with a microfiber cloth."
+        },
+        {
+            "taskName": "Sweep Kitchen Cooler",
+            "undesirability": 3,
+            "frequencyPerWeek": 0.5,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Kitchen\"}, Sweeping, scraping, and mopping the kitchen cooler (use hot water)."
+        },
+        {
+            "taskName": "Sweep Kitchen Freezer",
+            "undesirability": 5,
+            "frequencyPerWeek": 0.5,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times:, Location: \"Kitchen\"}, Sweeping and scraping the kitchen freezer floor."
+        },
+        {
+            "taskName": "Clean Fryer",
+            "undesirability": 1,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "Sa",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"10A-5P\", Location: \"Kitchen\"}, Pour cold oil into used frosting buckets and throw into dumpster (lid on), clean fryer, scrape, and replace oil. -John Only for now"
+        },
+        {
+            "taskName": "Soda Bibs",
+            "undesirability": 2,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "Su",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"7A-12P\", Location: }, Put soda bibs on shelf to proper location after delivery."
+        },
+        {
+            "taskName": "Sweep Front Cooler",
+            "undesirability": 3,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Front\"}, Sweep, Scrape, and Mop (with hot water) the front soda cooler."
+        },
+        {
+            "taskName": "Sweep Front Freezer",
+            "undesirability": 4,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Front\"}, Sweep and Scrape the ice cream freezer (scraping not likely necessary)."
+        },
+        {
+            "taskName": "Sweep Beer Cooler",
+            "undesirability": 3,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Front\"}, Sweep, Scrape, and Mop (with hot water) the beer cooler."
+        },
+        {
+            "taskName": "Check Outside Trash",
+            "undesirability": 2,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: }, Check outside trash bins, and replace if full or nearing full."
+        },
+        {
+            "taskName": "Replace Outside Trash",
+            "undesirability": 3,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"5P-11P\" , Location: }, Replace ALL outside trash bins regardless of fullness."
+        },
+        {
+            "taskName": "Clean Kitchen Shelves",
+            "undesirability": 4,
+            "frequencyPerWeek": 2.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Kitchen\"}, Thoroughly clean kitchen shelves, including under prep table and sub station"
+        },
+        {
+            "taskName": "Clean Kitchen Handles",
+            "undesirability": 2,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: , Location: \"Kitchen\"}, Thoroughly clean all kitchen doors, handles, and sub station door rails"
+        },
+        {
+            "taskName": "Clean Warmers",
+            "undesirability": 1,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Times: \"5P-11P\", Location: \"Kitchen\"}, Remove warmer racks and clean interiors"
+        },
+        {
+            "taskName": "Check All Dates",
+            "undesirability": 1,
+            "frequencyPerWeek": 4.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time: , Location: \"Kitchen\"}, Check ALL dates and replace what is necessary."
+        },
+        {
+            "taskName": "Clean Sink",
+            "undesirability": 4,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: \"Kitchen\"}, Thoroughly clean kitchen sink back wall and underneath sink."
+        },
+        {
+            "taskName": "Sweep Back Room",
+            "undesirability": 2,
+            "frequencyPerWeek": 2.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: \"Kitchen\"}, Sweep and mop kitchen back room."
+        },
+        {
+            "taskName": "Check Back Stock",
+            "undesirability": 1,
+            "frequencyPerWeek": 7.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: \"Front\"}, Check Back Stock and replace what can be replaced"
+        },
+        {
+            "taskName": "Clean Trash Cart",
+            "undesirability": 1,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: }, Hose down the trash cart."
+        },
+        {
+            "taskName": "Clean Electrical Room",
+            "undesirability": 1,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: \"Front\"}, Check the electrical room - no paper of any kind allowed inside. Sweep but do not mop."
+        },
+        {
+            "taskName": "Clean Gas Pump",
+            "undesirability": 3,
+            "frequencyPerWeek": 1.0,
+            "shift": {
+                "weekday": "",
+                "times": "",
+                "location": ""
+            },
+            "description": "Time:, Location: \"Front\"}, Wipe screens down and pumps down outside"
+        }
+    ]
+}

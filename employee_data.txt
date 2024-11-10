@@ -1,1 +1,2 @@
-Employee ID, {Date: Tasks["task1", "task2"]}
+Employee ID, Week of (date of Monday), {Weekday: Tasks["task1", "task2"]}
+# Example: 831427, Week of 11/11, {M: [], T: [], W: [], Th: [], F: [], Sa: ["Cleaning Fryer"], Su: []}

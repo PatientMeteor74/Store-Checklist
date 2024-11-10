@@ -1,0 +1,130 @@
+{
+    "employees": [
+        {
+            "lastName": "BERGGERIN",
+            "firstName": "VANESSA",
+            "employeeId": "917312",
+            "shifts": []
+        },
+        {
+            "lastName": "CHRISTWELL IV",
+            "firstName": "CECIL",
+            "employeeId": "929836",
+            "shifts": []
+        },
+        {
+            "lastName": "COOPER",
+            "firstName": "CASSANDRA",
+            "employeeId": "386230",
+            "shifts": []
+        },
+        {
+            "lastName": "EPHRAIM",
+            "firstName": "ADONIYAS",
+            "employeeId": "857806",
+            "shifts": []
+        },
+        {
+            "lastName": "FAIR",
+            "firstName": "ANDREW",
+            "employeeId": "926620",
+            "shifts": []
+        },
+        {
+            "lastName": "FEHR",
+            "firstName": "DARIN",
+            "employeeId": "928758",
+            "shifts": []
+        },
+        {
+            "lastName": "GILLMORE",
+            "firstName": "PAMELA",
+            "employeeId": "689058",
+            "shifts": []
+        },
+        {
+            "lastName": "HALE",
+            "firstName": "GABRIELLA",
+            "employeeId": "744821",
+            "shifts": []
+        },
+        {
+            "lastName": "HOPPE",
+            "firstName": "SARA",
+            "employeeId": "941335",
+            "shifts": []
+        },
+        {
+            "lastName": "KASSON",
+            "firstName": "TRENT",
+            "employeeId": "825571",
+            "shifts": []
+        },
+        {
+            "lastName": "LATHROM",
+            "firstName": "ALLIE-ANNE",
+            "employeeId": "928757",
+            "shifts": []
+        },
+        {
+            "lastName": "MORRIS",
+            "firstName": "WILLIAM",
+            "employeeId": "927998",
+            "shifts": []
+        },
+        {
+            "lastName": "PLATKOWSKI",
+            "firstName": "JOHN",
+            "employeeId": "831427",
+            "shifts": [
+                {
+                    "Weekday": "Sa",
+                    "Times": "10A-5P",
+                    "Location": "Kitchen"
+                }
+            ]
+        },
+        {
+            "lastName": "SANTANA",
+            "firstName": "ALEXIS",
+            "employeeId": "932816",
+            "shifts": []
+        },
+        {
+            "lastName": "SHACKLEFORD-RUSSEL",
+            "firstName": "KEVIN",
+            "employeeId": "836906",
+            "shifts": []
+        },
+        {
+            "lastName": "SHANNON",
+            "firstName": "DAVID",
+            "employeeId": "685374",
+            "shifts": []
+        },
+        {
+            "lastName": "SMITH",
+            "firstName": "DANTE",
+            "employeeId": "890310",
+            "shifts": []
+        },
+        {
+            "lastName": "TRUSTY",
+            "firstName": "KONLYN",
+            "employeeId": "891146",
+            "shifts": []
+        },
+        {
+            "lastName": "WINSKY",
+            "firstName": "JESSIE",
+            "employeeId": "939543",
+            "shifts": []
+        },
+        {
+            "lastName": "WORRELL",
+            "firstName": "DALTON",
+            "employeeId": "931865",
+            "shifts": []
+        }
+    ]
+}
