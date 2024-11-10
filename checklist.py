@@ -3,6 +3,11 @@
 
 import random
 import math
+import json
+
+def get_employee_data(ID):
+	pass
+
 
 
 

@@ -1,1 +1,24 @@
-Task Name, Task Undesirability, Task Frequency, Task Shift{Weekday: "", Times: "", Location: ""}
+Task Name, Task Undesirability, Task Frequency (Per week), Task Shift{Weekday: "", Times: "", Location: ""}, Description
+Cleaning Behind Toilets, 4, 3, {Weekday: , Times: "5P-11P", Location: }, Sweeping behind toilets, mopping or scrubbing behind toilets, and under urinals.
+Cleaning Bathroom Walls, 2, 3, {Weekday: , Times: "5P-11P", Location: }, Cleaning under hand dryer, paper towel dispenser, and under sink.
+Replace Bathroom Implements, 1, 7, {Weekday: , Times: , Location: "Front" }, Check toilet paper, paper towels, and soap for the bathrooms, and replace when necessary.
+Cleaning Toilets, 4, 7, {Weekday: , Times: "5P-11P", Location: "Front" }, Cleaning toilets through and through.
+Checking Toilets, 3, 7, {Weekday: , Times: , Location: }, Check the toilets, if they're unclean, use the brush.
+Dusting, 3, 2, {Weekday: , Times: , Location: }, Dust the store where applicable (e.g. machines, windows, etc.) with a microfiber cloth.
+Sweep Kitchen Cooler, 3, .5, {Weekday: , Times: , Location: "Kitchen"}, Sweeping, scraping, and mopping the kitchen cooler (use hot water). 
+Sweep Kitchen Freezer, 5, .5, {Weekday: , Times:, Location: "Kitchen"}, Sweeping and scraping the kitchen freezer floor.
+Clean Fryer, 1, 1, {Weekday: Sa, Times: "10A-5P", Location: "Kitchen"}, Pour cold oil into used frosting buckets and throw into dumpster (lid on), clean fryer, scrape, and replace oil. -John Only for now
+Soda Bibs, 2, 1, {Weekday: Su, Times: "7A-12P", Location: }, Put soda bibs on shelf to proper location after delivery.
+Sweep Front Cooler, 3, 1, {Weekday: , Times: , Location: "Front"}, Sweep, Scrape, and Mop (with hot water) the front soda cooler.
+Sweep Front Freezer, 4, 1, {Weekday: , Times: , Location: "Front"}, Sweep and Scrape the ice cream freezer (scraping not likely necessary).
+Sweep Beer Cooler, 3, 1, {Weekday: , Times: , Location: "Front"}, Sweep, Scrape, and Mop (with hot water) the beer cooler.
+Check Outside Trash, 2, 7, {Weekday: , Times: , Location: }, Check outside trash bins, and replace if full or nearing full.
+Replace Outside Trash, 3, 7, {Weekday: , Times: "5P-11P" , Location: }, Replace ALL outside trash bins regardless of fullness.
+Clean Kitchen Shelves, 4, 2, {Weekday: , Times: , Location: "Kitchen"}, Thoroughly clean kitchen shelves, including under prep table and sub station
+Clean Kitchen Handles, 2, 7, {Weekday: , Times: , Location: "Kitchen"}, Thoroughly clean all kitchen doors, handles, and sub station door rails
+Clean Warmers, 1, 7, {Weekday:, Times: "5P-11P", Location: "Kitchen"}, Remove warmer racks and clean interiors 
+Check All Dates, 1, 4, {Weekday:, Time: , Location: "Kitchen"}, Check ALL dates and replace what is necessary.
+Clean Sink, 4, 1, {Weekday:, Time:, Location: "Kitchen"}, Thoroughly clean kitchen sink back wall and underneath sink.
+Sweep Back Room, 2, 2, {Weekday:, Time:, Location: "Kitchen"}, Sweep and mop kitchen back room. 
+Check Back Stock, 1, 7, {Weekday:, Time:, Location: "Front"}, Check Back Stock and replace what can be replaced
+Clean Trash Cart, 1, 1, {Weekday:, Time:, Location: }, Hose down the trash cart.
