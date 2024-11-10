@@ -22,3 +22,5 @@ Clean Sink, 4, 1, {Weekday:, Time:, Location: "Kitchen"}, Thoroughly clean kitch
 Sweep Back Room, 2, 2, {Weekday:, Time:, Location: "Kitchen"}, Sweep and mop kitchen back room. 
 Check Back Stock, 1, 7, {Weekday:, Time:, Location: "Front"}, Check Back Stock and replace what can be replaced
 Clean Trash Cart, 1, 1, {Weekday:, Time:, Location: }, Hose down the trash cart.
+Clean Electrical Room, 1, 1, {Weekday: , Time:, Location: "Front"}, Check the electrical room - no paper of any kind allowed inside. Sweep but do not mop.
+Clean Gas Pump, 3, 1, {Weekday:, Time:, Location: "Front"}, Wipe screens down and pumps down outside
