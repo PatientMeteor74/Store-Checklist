@@ -1,0 +1,3 @@
+shift start, shift end, weekday, location, freetime weighting (1 is very free, 5 is no free time)
+3A, 10A, Su, Kitchen, 4
+3A, 10A, Su, Front, 3

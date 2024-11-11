@@ -1,0 +1,18 @@
+{
+    "shifts": [
+        {
+            "start": "3A",
+            "end": "10A",
+            "weekday": "Su",
+            "location": "Kitchen",
+            "weighting": "4"
+        },
+        {
+            "start": "3A",
+            "end": "10A",
+            "weekday": "Su",
+            "location": "Front",
+            "weighting": "3"
+        }
+    ]
+}
