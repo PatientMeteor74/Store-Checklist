@@ -33,10 +33,7 @@ class Task:
         employee_weights = {employee: 0 for employee in employee_list}
         
         # Get task undesirability score from checklist data
-        task_undesirability = next(
-            (task["undesirability"] for task in checklist_data["tasks"] if task["taskName"] == self.name), 0
-        )
-        
+        task_undesirability = next((task["undesirability"] for task in checklist_data["tasks"] if task["taskName"] == self.name), 0)
         # Distribute tasks based on frequency and employee workload
         for employee, weight in employee_weights.items():
             if random.random() >= self.frequency:
